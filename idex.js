@@ -7,7 +7,7 @@ const prefix = "!"
 
 Client.on("ready", () => {
 	console.log("online");
-	Client.user.setPresence({ game: { name: `A Server`, type: 0} });
+	Client.user.setPresence({ game: { name: `ReallyKid.aternos.me`, type: 0} });
 });
 
 // welcome message
@@ -153,7 +153,7 @@ client.on('message', msg => {
 //    timestamp: new Date(),
 //    footer: {
 //      icon_url: <Client>.user.avatarURL,
-//      text: '© Example'
+//      text: 'Â© Example'
 //    }});
 //My key
 
